@@ -6,50 +6,50 @@
 
 @layer base {
   :root {
-    --background: 20 10% 7%;
-    --foreground: 35 25% 92%;
+    --background: 30 20% 97%;
+    --foreground: 20 15% 15%;
 
-    --card: 20 8% 10%;
-    --card-foreground: 35 25% 92%;
+    --card: 30 20% 100%;
+    --card-foreground: 20 15% 15%;
 
-    --popover: 20 8% 10%;
-    --popover-foreground: 35 25% 92%;
+    --popover: 30 20% 100%;
+    --popover-foreground: 20 15% 15%;
 
-    --primary: 35 25% 92%;
-    --primary-foreground: 20 10% 7%;
+    --primary: 20 15% 15%;
+    --primary-foreground: 30 20% 97%;
 
-    --secondary: 20 6% 13%;
-    --secondary-foreground: 35 25% 92%;
+    --secondary: 30 15% 93%;
+    --secondary-foreground: 20 15% 15%;
 
-    --muted: 20 5% 18%;
-    --muted-foreground: 30 8% 50%;
+    --muted: 30 10% 90%;
+    --muted-foreground: 20 5% 45%;
 
-    --accent: 340 45% 62%;
+    --accent: 340 45% 55%;
     --accent-foreground: 0 0% 100%;
 
-    --accent-secondary: 280 30% 58%;
+    --accent-secondary: 280 30% 55%;
     --accent-secondary-foreground: 0 0% 100%;
 
     --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 40% 98%;
+    --destructive-foreground: 30 20% 97%;
 
-    --border: 20 6% 16%;
-    --input: 20 6% 16%;
-    --ring: 340 45% 62%;
+    --border: 30 10% 88%;
+    --input: 30 10% 88%;
+    --ring: 340 45% 55%;
 
     --radius: 0.25rem;
 
     --font-serif: 'Cormorant Garamond', Georgia, serif;
     --font-sans: 'Outfit', system-ui, sans-serif;
 
-    --sidebar-background: 20 8% 10%;
-    --sidebar-foreground: 35 25% 92%;
-    --sidebar-primary: 35 25% 92%;
-    --sidebar-primary-foreground: 20 10% 7%;
-    --sidebar-accent: 20 6% 13%;
-    --sidebar-accent-foreground: 35 25% 92%;
-    --sidebar-border: 20 6% 16%;
-    --sidebar-ring: 340 45% 62%;
+    --sidebar-background: 30 20% 100%;
+    --sidebar-foreground: 20 15% 15%;
+    --sidebar-primary: 20 15% 15%;
+    --sidebar-primary-foreground: 30 20% 97%;
+    --sidebar-accent: 30 15% 93%;
+    --sidebar-accent-foreground: 20 15% 15%;
+    --sidebar-border: 30 10% 88%;
+    --sidebar-ring: 340 45% 55%;
   }
 }
 
