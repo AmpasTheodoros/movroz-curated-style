@@ -23,7 +23,7 @@ const Header = () => {
         initial={{ y: -100 }}
         animate={{ y: 0 }}
         transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
-        className="flex items-center justify-between px-6 md:px-12 py-4 bg-background/80 backdrop-blur-md border-b border-border/50"
+        className="flex items-center justify-between px-6 md:px-12 py-5 bg-background/60 backdrop-blur-lg border-b border-foreground/5"
       >
         <Link to="/" className="flex-shrink-0">
           <img src={logo} alt="MOVROZ" className="h-10 w-10 object-contain" />
